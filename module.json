@@ -1,5 +1,5 @@
 {
-  "id": "pf2e-offline-viewer",
+  "id": "pf2eOfflineViewer",
   "title": "PF2E Offline Viewer",
   "description": "A client-side data fetcher for the Wealth Viewer Application",
   "version": "This is auto replaced",
@@ -17,7 +17,7 @@
     }
   ],
   "relationships": {
-    "systems": [pf2e],
+    "systems": ["pf2e"],
     "requires": []
   },
   "esmodules": [
