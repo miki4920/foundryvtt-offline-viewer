@@ -1,5 +1,5 @@
 {
-	"id": "pf2eOfflineViewer",
+	"id": "pf2e-offline-viewer",
 	"title": "PF2E Offline Viewer",
 	"description": "A client-side data fetcher for the Wealth Viewer Application",
 	"version": "0.1.1",
